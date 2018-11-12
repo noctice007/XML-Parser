@@ -9,6 +9,7 @@ using std::ifstream;
 using std::istringstream;
 using namespace XML::proccess;
 using XML::Error::error;
+
 namespace XML
 {
 class XMLParser
