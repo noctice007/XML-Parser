@@ -1,2 +1,2 @@
 # XML-Parser
-a simple library for parsing xml files
+A simple library for parsing xml files
